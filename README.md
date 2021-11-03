@@ -27,4 +27,10 @@ I was incorrect. The model that proved the most accurate was Logistic Regression
 
 ![image](https://user-images.githubusercontent.com/83737584/140003154-041fa09f-256a-404d-8d74-f5420d370876.png)
 
+<hr>
+Contact:
+
+* https://www.linkedin.com/in/sharon-colson-515222210/
+* sharon.colson@gmail.com
+
 
