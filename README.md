@@ -30,7 +30,7 @@ I was incorrect. The model that proved the most accurate was Logistic Regression
 <hr>
 Contact:
 
-* https://www.linkedin.com/in/sharon-colson-515222210/
+* https://www.linkedin.com/in/sharon-colson
 * sharon.colson@gmail.com
 
 
